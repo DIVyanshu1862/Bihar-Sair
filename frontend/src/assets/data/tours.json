@@ -1,0 +1,158 @@
+[
+  {
+    "title": "Mahabodhi Temple",
+    "city": "Gaya",
+    "address": "Bihar",
+    "distance": 100,
+    "price": 1999,
+    "maxGroupSize": 10,
+    "desc": "The Mahabodhi Temple, located in Gaya, India, is a sacred Buddhist site that marks the spot where Siddhartha Gautama, the Buddha, attained enlightenment. Recognized as a UNESCO World Heritage Site, the temple complex features an iconic Bodhi Tree, descendant of the original tree under which the Buddha meditated. Pilgrims from around the world visit this spiritual destination, adorned with intricate carvings and historical significance, making it a symbol of Buddhism's profound teachings and the enlightenment experience",
+    "reviews": [],
+
+    "photo": "/tour-images/Mahabodhi Temple.jpg",
+    "featured": true
+  },
+  {
+    "title": "The Great Buddha Statue",
+    "city": "Gaya",
+    "address": "Bihar",
+    "distance": 300,
+    "price": 1999,
+    "maxGroupSize": 8,
+    "desc": "The Great Buddha statue is one of the popular stops on the Buddhist pilgrimage and tourist routes in Bodh Gaya, Bihar. The statue is 18.5 m high representing the Buddha seated in a meditation pose, or dhyana mudra, on a lotus in the open air",
+    "reviews": [],
+
+    "photo": "/tour-images/Giant Buddha.jpg",
+    "featured": true
+  },
+  {
+    "title": "Metta Buddharam Temple",
+    "city": "Gaya",
+    "address": "Bihar",
+    "distance": 300,
+    "price": 2499,
+    "maxGroupSize": 10,
+    "desc": "The Metta Buddharam Temple is a Thai temple situated at Bodhgaya. The temple is appealing with an outer shell of stainless steel and a decorative mosaic using mirrors.  The temple sees the Thai Temple style of architecture. The main temple floor is made of wood. Underneath the temple is the marble-floored meditation room offering a perfect environment to the devotees for meditation.",
+    "reviews": [],
+
+    "photo": "/tour-images/Metta Buddharam Temple.jpg",
+    "featured": true
+  },
+  {
+    "title": "Tergar Monastery",
+    "city": "Gaya",
+    "address": "Bihar",
+    "distance": 500,
+    "price": 2999,
+    "maxGroupSize": 8,
+    "desc": "The most impressive of Bodhgaya's Tibetan-style monasteries is the Tergar Monastery of the Karmapa school of Tibetan Buddhism. The Karmapa is often in residence here and gives teachings in the compound next door. There's a small café on-site",
+    "reviews": [],
+
+    "photo": "/tour-images/Tergar Monastery.jpg",
+    "featured": true
+  },
+  {
+    "title": "Ghora kotora Lake",
+    "city": "Rajgir",
+    "address": "Bihar",
+    "distance": 500,
+    "price": 2499,
+    "maxGroupSize": 8,
+    "desc": "Ghora Katora, which means Horse Bowl, is a natural lake near the city of Rajgir in the Indian state of Bihar. The shape of the lake resembles that of a horse and is surrounded by mountains on three of the sides. The lake attracts migratory birds from Siberia and central Asia during winter",
+    "reviews": [],
+
+    "photo": "/tour-images/Ghora Kotora Lake.jpg",
+    "featured": true
+  },
+  {
+    "title": "Glass Bridge",
+    "city": "Rajgir",
+    "address": "Bihar",
+    "distance": 500,
+    "price": 2499,
+    "maxGroupSize": 8,
+    "desc": "Among the many tourist attractions in India's Bihar is the glass bridge at Rajgir in Nalanda. Modelled after China's Hangzhou Glass Bridge, this 85-foot-long and 6-foot-wide bridge was inaugurated in 2021. Located amid five hills, the bridge draws domestic as well as international tourists every year.",
+    "reviews": [],
+
+    "photo": "/tour-images/Rajgir Glass Bridge.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mahavir Water Temple",
+    "city": "Nalanda",
+    "address": "Bihar",
+    "distance": 500,
+    "price": 2999,
+    "maxGroupSize": 8,
+    "desc": "The Jal Mandir or Water Temple is situated in Pawapuri, in the Indian state of Bihar. It is a major pilgrimage destination of Jains and the temple is dedicated to Mahavira, the 24th Tirthankara, which marks the place of his cremation. Mahavira attained Nirvana in Pawapuri in 527 BC",
+    "reviews": [],
+
+    "photo": "/tour-images/Mahavirswami Jain Water Temple.jpg",
+    "featured": true
+  },
+  {
+    "title": "Ruins of Nalanda University",
+    "city": "Nalanda",
+    "address": "Bihar",
+    "distance": 500,
+    "price": 2999,
+    "maxGroupSize": 8,
+    "desc": "Nalanda was a renowned mahavihara in ancient Magadha, eastern India. Considered by historians to be the world's first residential university and among the greatest centers of learning in the ancient world, it was located near the city of Rajagriha and about 90 kilometres southeast of Pataliputra",
+    "reviews": [],
+
+    "photo": "/tour-images/Ruins of Nalanda University.jpg",
+    "featured": true
+  },
+  {
+    "title": "Ashoka Pillar",
+    "city": "Vaishali",
+    "address": "Bihar",
+    "distance": 100,
+    "price": 1599,
+    "maxGroupSize": 5,
+    "desc": "Ashoka Pillar is a historical monument located at Kolhua in Vaishali, Bihar. Situated inside the Vaishali Archaeological Ruins complex, it is one of the popular places of heritage in Bihar, and among the must include places in Vaishali Tour Packages",
+    "reviews": [],
+
+    "photo": "/tour-images/Ashoka Pillar.jpg",
+    "featured": false
+  },
+  {
+    "title": "Vaishali Meseum",
+    "city": "Vaishali",
+    "address": "Bihar",
+    "distance": 500,
+    "price": 1599,
+    "maxGroupSize": 8,
+    "desc": "Vaishali Museum is an archaeological museum situated on the banks of Coronation Tank in Vaishali, Bihar. It is one of the popular museums in Bihar, and among the interesting places to visit in Vaishali for history lovers.",
+    "reviews": [],
+
+    "photo": "/tour-images/Vaishali Museum.jpg",
+    "featured": false
+  },
+  {
+    "title": "Buddha Relic Stupa",
+    "city": "Vaishali",
+    "address": "Bihar",
+    "distance": 500,
+    "price": 1599,
+    "maxGroupSize": 8,
+    "desc": "Buddha's Relic Stupa is a sacred spot located at Chak Ramdas in the Vaishali district of Bihar. Situated near Vaishali Museum, it is one of the prominent historical structures in Bihar, and among the best places to visit in Vaishali.",
+    "reviews": [],
+
+    "photo": "/tour-images/Buddha Relic Stupa.jpg",
+    "featured": false
+  },
+  {
+    "title": "Vishwa Shanti Stupa",
+    "city": "Vaishali",
+    "address": "Bihar",
+    "distance": 500,
+    "price": 1499,
+    "maxGroupSize": 8,
+    "desc": "Vishwa Shanti Stupa is a peace pagoda located near Vishali Museum in Vaishali, Bihar. Also known as World Peace Pagoda, it is one of the Peace Pagodas in India, and among the most-visited tourist places in Vaishali.",
+    "reviews": [],
+
+    "photo": "/tour-images/Vishwa Shanti Stupa.jpg",
+    "featured": false
+  }
+]
